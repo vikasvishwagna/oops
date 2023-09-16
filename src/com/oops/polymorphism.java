@@ -22,6 +22,7 @@ public class polymorphism {
         c1.colour();
         c1.colour(5);
         c1.colour(2,8);
+        c1.colour(5,6,3);
     }
 }
 class sports{
@@ -46,6 +47,9 @@ class car{
     }
         void colour(int a,int b){
             System.out.println("black");
+        }
+        void colour(int a, int b,int c){
+            System.out.println("git white");
         }
 
 }
