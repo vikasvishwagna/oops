@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfbaf560-23e5-41c8-923b-e2f35c0aa9cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../oops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CoreJavaModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superkeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/superkeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaModule/variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oops2/lecture1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oops2/lecture1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2bBlehRgzTjVmSVykWzOZ3PWGFe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vishw/IdeaProjects/oops/src/com/oops&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfbaf560-23e5-41c8-923b-e2f35c0aa9cd" name="Changes" comment="" />
+      <created>1705696449673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705696449673</updated>
+    </task>
+    <servers />
+  </component>
+</project>

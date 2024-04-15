@@ -6,8 +6,8 @@ public class variables {
 
     //code starts
 
-  public int a = 10;//instance variable we can use access modifiers
-  public static int b = 20;//static variable we can use access modifiers
+  public int a = 10;//for instance variable we can use access modifiers
+  public static int b = 20;//for static variable we can use access modifiers
 
     public static void main(String[] args) {
 
@@ -30,6 +30,8 @@ public class variables {
         System.out.println(obj1.a );//takes instance var of val 10
         System.out.println(obj1.a+b );//10+300
         System.out.println(obj1.a+obj2.b );//10+20
+        System.out.println(obj2.b);
+        System.out.println(b);
     }
 
 }

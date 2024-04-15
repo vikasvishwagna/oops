@@ -8,7 +8,7 @@ interface electronics{
         void bike();
     }
 
-   public class interface1 implements electronics,vehicle{
+   public class  interface1 implements electronics,vehicle{
 
         @Override
         public void phone() {

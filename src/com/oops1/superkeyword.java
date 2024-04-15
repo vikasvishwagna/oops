@@ -64,7 +64,7 @@ class virat extends person{
               this.display();//refers to the current class local var or method
               super.display();//super variable ref to immediate parent class
               super.display(5);
-              super.display("jdak",8);
+              super.display("rsrk",8);
             System.out.println("how are u");
         }
 

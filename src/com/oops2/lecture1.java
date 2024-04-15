@@ -6,8 +6,8 @@ class Bankacc{
     int balance;
 
     Bankacc(int newaccNo, String newNAME, int newphNo,int nbalance){
-        accNo = newaccNo;
-        name = newNAME;
+       this.accNo = newaccNo;
+         name = newNAME;
         phNo = newphNo;
         balance = nbalance;
     }
